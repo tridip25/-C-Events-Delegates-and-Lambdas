@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\bin\Debug\netcoreapp2.2\DataVerificationUsingEvents.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\bin\Debug\netcoreapp2.2\DataVerificationUsingEvents.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\bin\Debug\netcoreapp2.2\DataVerificationUsingEvents.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\bin\Debug\netcoreapp2.2\DataVerificationUsingEvents.dll
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\bin\Debug\netcoreapp2.2\DataVerificationUsingEvents.pdb
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.dll
+C:\Users\Tridip\c#\my_tasks\dec_15\DataVerificationUsingEvents\src\DataVerificationUsingEvents\obj\Debug\netcoreapp2.2\DataVerificationUsingEvents.pdb

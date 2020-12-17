@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\bin\Debug\netcoreapp2.2\BuiltInDelegateAction.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\bin\Debug\netcoreapp2.2\BuiltInDelegateAction.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\bin\Debug\netcoreapp2.2\BuiltInDelegateAction.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\bin\Debug\netcoreapp2.2\BuiltInDelegateAction.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\bin\Debug\netcoreapp2.2\BuiltInDelegateAction.pdb
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\BuiltInDelegateAction\src\BuiltInDelegateAction\obj\Debug\netcoreapp2.2\BuiltInDelegateAction.pdb

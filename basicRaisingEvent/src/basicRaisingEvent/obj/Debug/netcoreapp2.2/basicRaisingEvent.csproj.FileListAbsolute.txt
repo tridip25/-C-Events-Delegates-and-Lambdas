@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\bin\Debug\netcoreapp2.2\basicRaisingEvent.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\bin\Debug\netcoreapp2.2\basicRaisingEvent.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\bin\Debug\netcoreapp2.2\basicRaisingEvent.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\bin\Debug\netcoreapp2.2\basicRaisingEvent.dll
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\bin\Debug\netcoreapp2.2\basicRaisingEvent.pdb
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.dll
+C:\Users\Tridip\c#\my_tasks\dec_11\basicRaisingEvent\src\basicRaisingEvent\obj\Debug\netcoreapp2.2\basicRaisingEvent.pdb

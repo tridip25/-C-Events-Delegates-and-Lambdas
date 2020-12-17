@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\bin\Debug\netcoreapp2.2\lambdaWIthLINQ.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\bin\Debug\netcoreapp2.2\lambdaWIthLINQ.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\bin\Debug\netcoreapp2.2\lambdaWIthLINQ.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\bin\Debug\netcoreapp2.2\lambdaWIthLINQ.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\bin\Debug\netcoreapp2.2\lambdaWIthLINQ.pdb
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\lambdaWIthLINQ\src\lambdaWIthLINQ\obj\Debug\netcoreapp2.2\lambdaWIthLINQ.pdb

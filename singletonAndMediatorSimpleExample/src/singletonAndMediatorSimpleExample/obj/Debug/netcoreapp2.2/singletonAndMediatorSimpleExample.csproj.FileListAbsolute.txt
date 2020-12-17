@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\bin\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\bin\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\bin\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\bin\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.dll
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\bin\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.pdb
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.dll
+C:\Users\Tridip\c#\my_tasks\dec_17\singletonAndMediatorSimpleExample\src\singletonAndMediatorSimpleExample\obj\Debug\netcoreapp2.2\singletonAndMediatorSimpleExample.pdb

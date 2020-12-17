@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\bin\Debug\netcoreapp2.2\raisingEventExample2.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\bin\Debug\netcoreapp2.2\raisingEventExample2.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\bin\Debug\netcoreapp2.2\raisingEventExample2.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\bin\Debug\netcoreapp2.2\raisingEventExample2.dll
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\bin\Debug\netcoreapp2.2\raisingEventExample2.pdb
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.dll
+C:\Users\Tridip\c#\my_tasks\dec_14\raisingEventExample2\src\raisingEventExample2\obj\Debug\netcoreapp2.2\raisingEventExample2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\bin\Debug\netcoreapp2.2\delegateWithThread1.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\bin\Debug\netcoreapp2.2\delegateWithThread1.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\bin\Debug\netcoreapp2.2\delegateWithThread1.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\bin\Debug\netcoreapp2.2\delegateWithThread1.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\bin\Debug\netcoreapp2.2\delegateWithThread1.pdb
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\delegateWithThread1\src\delegateWithThread1\obj\Debug\netcoreapp2.2\delegateWithThread1.pdb

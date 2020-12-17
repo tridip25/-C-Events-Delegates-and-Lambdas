@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\bin\Debug\netcoreapp2.2\EventAndDelegates.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\bin\Debug\netcoreapp2.2\EventAndDelegates.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\bin\Debug\netcoreapp2.2\EventAndDelegates.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\bin\Debug\netcoreapp2.2\EventAndDelegates.dll
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\bin\Debug\netcoreapp2.2\EventAndDelegates.pdb
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.dll
+C:\Users\Tridip\c#\my_tasks\dec_14\EventAndDelegates\src\EventAndDelegates\obj\Debug\netcoreapp2.2\EventAndDelegates.pdb

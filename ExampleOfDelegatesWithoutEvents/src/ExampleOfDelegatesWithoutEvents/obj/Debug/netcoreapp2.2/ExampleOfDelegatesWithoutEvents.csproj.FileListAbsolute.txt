@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\bin\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\bin\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\bin\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\bin\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\bin\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.pdb
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.dll
+C:\Users\Tridip\c#\my_tasks\dec_16\ExampleOfDelegatesWithoutEvents\src\ExampleOfDelegatesWithoutEvents\obj\Debug\netcoreapp2.2\ExampleOfDelegatesWithoutEvents.pdb
